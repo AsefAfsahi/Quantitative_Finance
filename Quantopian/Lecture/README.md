@@ -108,7 +108,7 @@ The lecture series is broken down into thematic sections to guide your learning.
 |---|---|---|---|
 | 6 | Means | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Means) | [▶️](https://www.youtube.com/watch?v=XYbsBsRtCjw) |
 | 7 | Variance | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Variance) | [▶️](https://www.youtube.com/watch?v=0AWY0odmjSs) |
-| 8 | Statistical Moments | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Statistical_Moments) | [▶️](https://www.youtube.com/watch?v=0AWY0odmjSs) |
+| 8 | Statistical Moments | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Statistical_Moments) | [▶️](https://www.youtube.com/watch?v=mkVA_xUWDI0) |
 | 9 | Linear Correlation Analysis | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Linear_Correlation_Analysis) | [▶️](https://www.youtube.com/watch?v=GM76JkrVmRk?t=2m6s) |
 | 10 | Instability of Estimates | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Instability_of_Estimates) | [▶️](https://www.youtube.com/watch?v=2pbu3_6lF40) |
 | 11 | Random Variables | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Random_Variables) | |
