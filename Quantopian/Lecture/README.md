@@ -229,7 +229,7 @@ The lecture series is broken down into thematic sections to guide your learning.
 | 37 | Long-Short Equity | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Long-Short_Equity) | |
 | 38 | Example: Long-Short Algorithm | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Long-Short_Equity) | |
 | 39 | Factor Analysis with Alphalens | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Factor_Analysis) | [▶️](https://www.youtube.com/watch?v=v5IYcBxMDYE) |
-| 40 | Why You Should Hedge Beta and Sector Exposures (Part I) | [📝](hhttps://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Why_Hedge_I) |
+| 40 | Why You Should Hedge Beta and Sector Exposures (Part I) | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Why_Hedge_I) |
 | 41 |  Why You Should Hedge Beta and Sector Exposures (Part II) | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Why_Hedge_II) | 
 | 43 | Cointegration and Stationarity | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Integration_Cointegration_and_Stationarity) | [▶️](https://www.youtube.com/watch?v=Pn_RiDbK82M) |
 | 44 | Introduction to Pairs Trading | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Introduction_to_Pairs_Trading) | [▶️](https://www.youtube.com/watch?v=JTucMRYMOyY) |
