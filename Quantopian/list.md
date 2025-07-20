@@ -1,9 +1,3 @@
-**Research Projects & Lecture Content**
-===================
-More on the Quantopian Lecture Series at [quantopian.com/lectures](https://www.quantopian.com/lectures)
-
-<a href="https://www.quantopian.com/lectures"><img src="http://i.imgur.com/KzPuAuJ.png"></a>
-
 Lecture 1: Introduction to Research — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Research)] [[▶️Video](https://www.youtube.com/watch?v=W-TlWzwM208)]\
 Lecture 2: Introduction to Python — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Python)] [[▶️Video](https://www.youtube.com/watch?v=bQUWLkKzpxE)]\
 Lecture 3: Introduction to NumPy — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_NumPy)] [[▶️Video](https://www.youtube.com/watch?v=48RqKyD6fas)]\
@@ -60,4 +54,3 @@ Lecture 53: Mean Reversion on Futures — [[📝Lecture Notebooks](https://githu
 Lecture 54: Example: Pairs Trading on Futures — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pairs_Trading)]\
 Lecture 55: Case Study: Traditional Value Factor — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Traditional_Value_Factor)]\
 Lecture 56: Case Study: Comparing ETFs — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Case_Study_Comparing_ETFs)]
-
