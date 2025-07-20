@@ -149,6 +149,7 @@ The lecture series is broken down into thematic sections to guide your learning.
 | 34 | Factor Risk Exposure | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Factor_Risk_Exposure) | [▶️](https://www.youtube.com/watch?v=Ep8Y5JfQoRg) |
 | 35 | Risk-Constrained Optimization | [📝](https://github.com/quantopian/research_public/blob/master/notebooks/lectures/Factor_Based_Risk_Management/notebook.ipynb) | |
 | 36 | Principal Component Analysis | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/PCA) | |
+
 | 42 | VaR and CVaR | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/VaR_and_CVaR) | |
 
 ### Part 6: Trading Strategies & Models
@@ -161,9 +162,12 @@ The lecture series is broken down into thematic sections to guide your learning.
 | 37 | Long-Short Equity | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Long-Short_Equity) | |
 | 38 | Example: Long-Short Algorithm | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Long-Short_Equity) | |
 | 39 | Factor Analysis with Alphalens | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Factor_Analysis) | [▶️](https://www.youtube.com/watch?v=v5IYcBxMDYE) |
+| 40 | Why You Should Hedge Beta and Sector Exposures (Part I) | [📝](https://github.com/AsefAfsahi/Quantitative-Finance/tree/main/Quantopian/research_public/notebooks/lectures/Why_Hedge_I) |
+| 41 |  Why You Should Hedge Beta and Sector Exposures (Part II) | [📝](https://github.com/AsefAfsahi/Quantitative-Finance/tree/main/Quantopian/research_public/notebooks/lectures/Why_Hedge_II) | 
 | 43 | Cointegration and Stationarity | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Integration_Cointegration_and_Stationarity) | [▶️](https://www.youtube.com/watch?v=Pn_RiDbK82M) |
 | 44 | Introduction to Pairs Trading | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Introduction_to_Pairs_Trading) | [▶️](https://www.youtube.com/watch?v=JTucMRYMOyY) |
 | 45 | Example: Basic Pairs Trading | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Introduction_to_Pairs_Trading) | |
+| 46 | Example: Pairs Trading Algorithm  | [📝](https://github.com/AsefAfsahi/Quantitative-Finance/tree/main/Quantopian/research_public/notebooks/lectures/Introduction_to_Pairs_Trading) | |
 | 47 | Autocorrelation and AR Models | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Autocorrelation_and_AR_Models) | [▶️](https://www.youtube.com/watch?v=fnrSZvla51Y) |
 | 48 | ARCH, GARCH, and GMM | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/ARCH_GARCH_and_GMM) | |
 | 49 | Kalman Filters | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Kalman_Filters) | [▶️](https://www.youtube.com/watch?v=RxIdLu18SsE) |
@@ -181,6 +185,69 @@ The lecture series is broken down into thematic sections to guide your learning.
 | 56 | Case Study: Comparing ETFs | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Case_Study_Comparing_ETFs) | |
 
 ---
+
+## Lecture Series Sort by Number 
+
+| # | Topic | Notebook | Video |
+|---|---|---|---|
+| 1 | Introduction to Research | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Introduction_to_Research) | [▶️](https://www.youtube.com/watch?v=W-TlWzwM208) |
+| 2 | Introduction to Python | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Introduction_to_Python) | [▶️](https://www.youtube.com/watch?v=bQUWLkKzpxE) |
+| 3 | Introduction to NumPy | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Introduction_to_NumPy) | [▶️](https://www.youtube.com/watch?v=48RqKyD6fas) |
+| 4 | Introduction to pandas | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Introduction_to_Pandas) | [▶️](https://www.youtube.com/watch?v=pAkEuv1lj08) |
+| 5 | Plotting Data | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Plotting_Data) | [▶️](https://www.youtube.com/watch?v=nKq_wz3Qk8w) |
+| 6 | Means | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Means) | [▶️](https://www.youtube.com/watch?v=XYbsBsRtCjw) |
+| 7 | Variance | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Variance) | [▶️](https://www.youtube.com/watch?v=0AWY0odmjSs) |
+| 8 | Statistical Moments | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Statistical_Moments) | [▶️](https://www.youtube.com/watch?v=mkVA_xUWDI0) |
+| 9 | Linear Correlation Analysis | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Linear_Correlation_Analysis) | [▶️](https://www.youtube.com/watch?v=GM76JkrVmRk?t=2m6s) |
+| 10 | Instability of Estimates | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Instability_of_Estimates) | [▶️](https://www.youtube.com/watch?v=2pbu3_6lF40) |
+| 11 | Random Variables | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Random_Variables) | |
+| 12 | Linear Regression | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Linear_Regression) | [▶️](https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=3m36s) |
+| 13 | Maximum Likelihood Estimation | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Maximum_Likelihood_Estimation) | |
+| 14 | Regression Model Instability | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Regression_Model_Instability) | [▶️](https://www.youtube.com/watch?v=HMQ34PfhzGE) |
+| 15 | Multiple Linear Regression | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Multiple_Linear_Regression) | |
+| 16 | Violations of Regression Models | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Violations_of_Regression_Models) | [▶️](https://www.youtube.com/watch?v=xM94MRs8U3M) |
+| 17 | Model Misspecification | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Model_Misspecification) | [▶️](https://www.youtube.com/watch?v=t4peS8Ak-sY) |
+| 18 | Residual Analysis | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Residuals_Analysis) | |
+| 19 | The Dangers of Overfitting | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/The_Dangers_of_Overfitting) | [▶️](https://www.youtube.com/watch?v=KNCgvjyKrcw) |
+| 20 | Hypothesis Testing | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Hypothesis_Testing) | |
+| 21 | Confidence Intervals | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Confidence_Intervals) | |
+| 22 | p-Hacking & Multiple Comparisons | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/p-Hacking_and_Multiple_Comparisons_Bias) | [▶️](https://www.youtube.com/watch?v=YiDfbYtgUPc) |
+| 23 | Spearman Rank Correlation | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Spearman_Rank_Correlation) | [▶️](https://www.youtube.com/watch?v=GM76JkrVmRk?t=25m51s) |
+| 24 | Leverage | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Leverage) | |
+| 25 | Position Concentration Risk | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Position_Concentration_Risk) | [▶️](https://www.youtube.com/watch?v=I1z7B2_FarQ) |
+| 26 | Estimating Covariance Matrices | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Estimating_Covariance_Matrices) | |
+| 27 | Volume, Slippage, and Liquidity | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Introduction_to_Volume_Slippage_and_Liquidity) | |
+| 28 | Market Impact Models | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Market_Impact_Model) | |
+| 29 | Universe Selection | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Universe_Selection) | [▶️](https://www.youtube.com/watch?v=oa5RhuHVbH0) |
+| 30 | CAPM and APT | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/CAPM_and_Arbitrage_Pricing_Theory) | |
+| 31 | Beta Hedging | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Beta_Hedging) | [▶️](https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=22m14s) |
+| 32 | Fundamental Factor Models | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Fundamental_Factor_Models) | [▶️](https://www.youtube.com/watch?v=P16zDtf0CE0) |
+| 33 | Portfolio Analysis | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Portfolio_Analysis) | |
+| 34 | Factor Risk Exposure | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Factor_Risk_Exposure) | [▶️](https://www.youtube.com/watch?v=Ep8Y5JfQoRg) |
+| 35 | Risk-Constrained Optimization | [📝](https://github.com/quantopian/research_public/blob/master/notebooks/lectures/Factor_Based_Risk_Management/notebook.ipynb) | |
+| 36 | Principal Component Analysis | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/PCA) | |
+| 37 | Long-Short Equity | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Long-Short_Equity) | |
+| 38 | Example: Long-Short Algorithm | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Long-Short_Equity) | |
+| 39 | Factor Analysis with Alphalens | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Factor_Analysis) | [▶️](https://www.youtube.com/watch?v=v5IYcBxMDYE) |
+| 40 | Why You Should Hedge Beta and Sector Exposures (Part I) | [📝](https://github.com/AsefAfsahi/Quantitative-Finance/tree/main/Quantopian/research_public/notebooks/lectures/Why_Hedge_I) |
+| 41 |  Why You Should Hedge Beta and Sector Exposures (Part II) | [📝](https://github.com/AsefAfsahi/Quantitative-Finance/tree/main/Quantopian/research_public/notebooks/lectures/Why_Hedge_II) | 
+| 43 | Cointegration and Stationarity | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Integration_Cointegration_and_Stationarity) | [▶️](https://www.youtube.com/watch?v=Pn_RiDbK82M) |
+| 44 | Introduction to Pairs Trading | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Introduction_to_Pairs_Trading) | [▶️](https://www.youtube.com/watch?v=JTucMRYMOyY) |
+| 45 | Example: Basic Pairs Trading | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Introduction_to_Pairs_Trading) | |
+| 46 | Example: Pairs Trading Algorithm  | [📝](https://github.com/AsefAfsahi/Quantitative-Finance/tree/main/Quantopian/research_public/notebooks/lectures/Introduction_to_Pairs_Trading) | |
+| 47 | Autocorrelation and AR Models | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Autocorrelation_and_AR_Models) | [▶️](https://www.youtube.com/watch?v=fnrSZvla51Y) |
+| 48 | ARCH, GARCH, and GMM | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/ARCH_GARCH_and_GMM) | |
+| 49 | Kalman Filters | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Kalman_Filters) | [▶️](https://www.youtube.com/watch?v=RxIdLu18SsE) |
+| 50 | Example: Kalman Filter Pairs Trade | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Kalman_Filters) | |
+| 51 | Introduction to Futures | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Introduction_to_Futures) | |
+| 52 | Futures Trading Considerations | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Futures_Trading_Considerations) | |
+| 53 | Mean Reversion on Futures | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Mean_Reversion_on_Futures) | |
+| 54 | Example: Pairs Trading on Futures | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Introduction_to_Pairs_Trading) | |
+| 55 | Case Study: Value Factor | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Case_Study_Traditional_Value_Factor) | |
+| 56 | Case Study: Comparing ETFs | [📝](https://github.com/AsefAfsahi/Quantitative_Finance/tree/master/Quantopian/Lecture/Case_Study_Comparing_ETFs) | |
+
+
+
 
 ## Contributing
 
