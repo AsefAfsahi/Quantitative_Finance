@@ -31,9 +31,10 @@
     * [Part 5: Portfolio & Risk Management](#part-5-portfolio--risk-management)
     * [Part 6: Trading Strategies & Models](#part-6-trading-strategies--models)
     * [Part 7: Futures & Case Studies](#part-7-futures--case-studies)
-4.  [Contributing](#contributing)
-5.  [License](#license)
-6.  [Acknowledgements](#acknowledgements)
+4. [Lecture Series](#lecture-series)
+5.  [Contributing](#contributing)
+6.  [License](#license)
+7.  [Acknowledgements](#acknowledgements)
 
 ---
 
